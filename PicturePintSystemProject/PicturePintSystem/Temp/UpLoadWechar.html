@@ -1,0 +1,237 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>微信图片上传</title>
+    <style type="text/css">
+        body {
+            background: url('../Content/Image/wecharBg.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            min-height: 100em;
+        }
+
+        .div_Pic {
+            width: 42%;
+            height: 23em;
+            margin: 5em auto;
+            margin-top: 10em;
+            margin-bottom: 1.6em;
+        }
+
+        .div_Body {
+            text-align: center;
+        }
+
+            .div_Body p {
+                font-weight: bold;
+                font-size: 2.5em;
+                margin: 0.5em;
+                color: white;
+            }
+
+        .div_Button {
+            text-align: center;
+            margin-top: 5em;
+            margin-bottom: 2em;
+        }
+
+        .sel_Btn {
+            text-align: center;
+            letter-spacing: 1em;
+            font-size: 3.2em;
+            width: 80%;
+            font-weight: bold;
+            background: forestgreen;
+            color: white;
+            padding-top: 0.8em;
+            padding-bottom: 0.8em;
+            border: none;
+            border-radius: 3%;
+            cursor: pointer;
+        }
+
+            .sel_Btn:hover {
+                background: green;
+            }
+
+        .up_Btn {
+            letter-spacing: 1em;
+            font-size: 3.2em;
+            width: 80%;
+            margin-top: 0.8em;
+            font-weight: bold;
+            background: steelblue;
+            color: white;
+            padding-top: 0.8em;
+            padding-bottom: 0.8em;
+            border: none;
+            border-radius: 3%;
+            cursor: pointer;
+        }
+
+            .up_Btn:hover {
+                background: #2b669a;
+            }
+
+        .input_File {
+            font-size: 3.2em;
+            width: 80%;
+            font-weight: bold;
+            background: steelblue;
+            color: white;
+            padding-top: 0.8em;
+            padding-bottom: 0.8em;
+            border: none;
+            cursor: pointer;
+            z-index: 2;
+            position: absolute;
+            top: 0em;
+            opacity: 0;
+        }
+
+        .div_Mask {
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #5e5e5e;
+            opacity: 0.8;
+            z-index: 1;
+            cursor: pointer;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="div_Top">
+        <div class="div_Pic">
+            <img id="ShowPic" src="../Content/Image/wecharTitle.jpg" style="height:100%;width:100%;border-radius:5%" />
+        </div>
+    </div>
+    <div class="div_Body">
+        <p>请从手机中选择喜欢的图片上传至PC端</p>
+        <p>请确保手机和PC在同一个Wifi下上传</p>
+    </div>
+    <div class="div_Button">
+        <form id="uploadFom" enctype="application/x-www-form-urlencoded" method="post" action="/ImageUpload">
+            <div style="position: relative">
+                <input  type="file" multiple="multiple" accept="image/*"  class="input_File" />
+                <button class="sel_Btn">&nbsp;选择图片</button>
+            </div>
+            <div>
+                <button type="button" class="up_Btn" onclick="uploadFile()">&nbsp;立即上传</button>
+            </div>
+        </form>
+    </div>
+    <div class="div_Mask" >
+        <p style="text-align: center;color:white;margin-top:50%;z-index:2;font-size:3.5em;font-family:Helvetica">正在上传...</p>
+    </div>
+    <script src="../Content/Script/jquery-1.9.1.min.js"></script>
+    <script>
+        //显示遮罩
+        function showMask() {
+            $('.div_Mask').show();
+        }
+        //关闭遮罩
+        function closMask() {
+            $('.div_Mask').hide();
+        }
+    </script>
+    <!--上传逻辑-->
+    <script type="text/javascript">
+        //var uploadFlag = false;
+        var uploadFlag = false;
+        var images = [];
+        //记录当前Base64图片
+        var pic ="";
+        //记录当前文件类型
+        var Type = "";
+        var maxCount = 9;
+        $(":file").on("change",
+            function () {
+                if (this.files.length == maxCount) {
+                    alert("您最多只能上传" + maxCount + "图片!");
+                    return;
+                }
+                //校验
+                $.each(this.files, function (key, item) {
+                    var file = item;
+                    var type = file.type;
+                    if (type !== "image/jpeg" && type !== "image/png") {
+                        alert("图片只能为png或者jpg格式哦!", 1200);
+                        //禁用上传
+                        uploadFlag = false;
+                        $("#up_Btn").attr("disabled", true);
+                        return false;
+                    }
+                });
+                //启用上传
+                uploadFlag = true;
+                $("#up_Btn").removeAttr("disabled");
+                var fileList = this.files;
+                $.each(fileList, function (key, item) {
+                    var file = item;
+                    var type = file.type;
+                    var reader = new FileReader();
+                    reader.readAsDataURL(file);
+                    reader.onload = function (e) {
+                        var b64 = e.currentTarget.result;
+                        var image = {
+                            pic: b64,
+                            Type:type.substring(type.indexOf('/') + 1)
+                        };
+                        images.push(image);
+                        if (key == fileList.length-1) {
+                            $("#ShowPic").attr("src", b64);
+                        } 
+                    }
+                });
+            });
+        //上传
+        var uploadFile = function () {
+            //不允许提交
+            if (!uploadFlag) {
+                alert('请重新选择文件上传');
+                return;
+            }
+            //提交至后端的数据
+            var Data = {
+                Images: images
+            };
+            $.ajax({
+                url: '/ImageUpload',
+                type: 'POST',
+                contentType: 'application/json; charset=utf-8',
+                data: JSON.stringify(Data),
+                beforeSend: function () {
+                    showMask();
+                },
+                success: function (data) {
+                    closMask();
+                    if (data!= "500") {
+                        var obj = eval('(' + data + ')');
+                        alert(obj.Message);
+                    }
+                    else {
+                        alert("系统错误,请重试！");
+                    }
+                    $('#uploadFom')[0].reset();
+                    // 提交后重置表单
+                    uploadFlag = false;
+                    images.splice(0, images.length);
+                },
+                error: function () {
+                    alert("上传失败!");
+                    closMask();
+                    // 提交后重置表单
+                    $('#uploadFom')[0].reset(); 
+                    uploadFlag = false;
+                    images.splice(0, images.length);
+                }
+            });
+        }
+    </script>
+</body>
+</html>

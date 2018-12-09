@@ -1,0 +1,142 @@
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.exe
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.exe.config
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\RazorEngine.dll
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\System.Web.Razor.dll
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\RazorEngine.xml
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\System.Web.Razor.xml
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.MainForm.resources
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.Properties.Resources.resources
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.GenerateResource.cache
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.CoreCompileInputs.cache
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.CopyComplete
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.exe
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.pdb
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.pdb
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Temp\Index.html
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\ThoughtWorks.QRCode.dll
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Script\jquery-1.9.1.min.js
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Patterns.Logging.dll
+D:\MyDemo\MyProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\SocketHttpListener.dll
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\Script\jquery-1.9.1.min.js
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\Temp\Index.html
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.exe.config
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.exe
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.pdb
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\Patterns.Logging.dll
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\RazorEngine.dll
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\SocketHttpListener.dll
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\System.Web.Razor.dll
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\RazorEngine.xml
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\bin\Debug\System.Web.Razor.xml
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csprojAssemblyReference.cache
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.MainForm.resources
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.Properties.Resources.resources
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.GenerateResource.cache
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.CoreCompileInputs.cache
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.CopyComplete
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.exe
+C:\Users\alienware\Documents\WeChat Files\xjn19940305\Files\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.exe
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Config\ConfigData.json
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Config\ConfigDataSet.json
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Content\Image\logo.jpg
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Content\Image\noimg.jpg
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Content\Image\wecharBg.jpg
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Content\Image\wecharTitle.jpg
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Content\Script\jquery-1.9.1.min.js
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Temp\UpLoadWechar.html
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.exe.config
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.exe.manifest
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.application
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\log4net.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Patterns.Logging.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicEditNew.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePinSystemModel.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\RazorEngine.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\SocketHttpListener.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\System.Web.Razor.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\DrawCoreLib.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicEditNew.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicEditNew.dll.config
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicEditNew.exe.config
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePinSystemModel.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\log4net.xml
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\RazorEngine.xml
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\System.Web.Razor.xml
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csprojAssemblyReference.cache
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.BaseForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.BaseForm1.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.EditForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.EditForm1.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.MainForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.MessageForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.PrintForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.Properties.Resources.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.SettingForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.SettingForm1.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.SizeForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.GenerateResource.cache
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.CoreCompileInputs.cache
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.exe.manifest
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.application
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.CopyComplete
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.exe
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Config\ConfigData.json
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Config\ConfigDataSet.json
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Content\Image\logo.jpg
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Content\Image\noimg.jpg
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Content\Image\wecharBg.jpg
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Content\Image\wecharTitle.jpg
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Content\Script\jquery-1.9.1.min.js
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Temp\UpLoadWechar.html
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.exe.config
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.exe.manifest
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.application
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.exe
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePintSystem.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\log4net.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Patterns.Logging.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicEditNew.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePinSystemModel.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\RazorEngine.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\SocketHttpListener.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\System.Web.Razor.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\DrawCoreLib.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicEditNew.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicEditNew.dll.config
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicEditNew.exe.config
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\PicturePinSystemModel.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\log4net.xml
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\RazorEngine.xml
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\System.Web.Razor.xml
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csprojAssemblyReference.cache
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.BaseForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.BaseForm1.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.EditForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.EditForm1.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.MainForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.MessageForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.PrintForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.Properties.Resources.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.SettingForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.SettingForm1.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.SizeForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.GenerateResource.cache
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.CoreCompileInputs.cache
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.exe.manifest
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.application
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.csproj.CopyComplete
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.exe
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\Config\FormConfig.json
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\obj\Debug\PicturePintSystem.AboutForm.resources
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePintSystem\bin\Debug\UpLoadFile\Penguins.jpg

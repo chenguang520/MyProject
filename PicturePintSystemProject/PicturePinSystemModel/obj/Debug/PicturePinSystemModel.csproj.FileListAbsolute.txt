@@ -1,0 +1,10 @@
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePinSystemModel\bin\Debug\PicturePinSystemModel.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePinSystemModel\bin\Debug\PicturePinSystemModel.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePinSystemModel\obj\Debug\PicturePinSystemModel.csproj.CoreCompileInputs.cache
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePinSystemModel\obj\Debug\PicturePinSystemModel.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具\PicturePintSystemProject\PicturePintSystemProject\PicturePinSystemModel\obj\Debug\PicturePinSystemModel.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePinSystemModel\bin\Debug\PicturePinSystemModel.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePinSystemModel\bin\Debug\PicturePinSystemModel.pdb
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePinSystemModel\obj\Debug\PicturePinSystemModel.csproj.CoreCompileInputs.cache
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePinSystemModel\obj\Debug\PicturePinSystemModel.dll
+C:\Users\chenguang.rong.o\Desktop\打印工具管理\版本管理\打印系统1.0\PicturePintSystemProject\PicturePinSystemModel\obj\Debug\PicturePinSystemModel.pdb

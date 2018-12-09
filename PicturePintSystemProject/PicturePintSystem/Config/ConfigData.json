@@ -1,0 +1,22 @@
+﻿{
+  "imageCodeKey": "http://{0}:{1}/Temp/UpLoadWechar.html",
+  "host": "90",
+  "mainFormPicListCount": "9",
+  "editPicListCount": "9",
+  "printPicListCount": "9",
+
+  "wifiPath": "{0}/UpLoadFile",
+  "locationPath": "{0}/PrintFile",
+  "logPath": "{0}/Content/Image/logo.jpg",
+  "ipPath": "{0}",
+  "imgLocation": "默认居中",
+
+  "printCount": "1",
+  "pageSize": "A3",
+  "landscape": "True",
+  "marginLeft": "1",
+  "marginRight": "1",
+  "marginTop": "1",
+  "marginBottom": "1",
+  "printName": ""
+}

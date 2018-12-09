@@ -1,0 +1,100 @@
+﻿{
+  "ButtonDeatils": [
+    {
+      "IsStartPosition": true,
+      "Width": "120",
+      "Height": "70",
+      "X": "25",
+      "Y": "80",
+      "BtnType": "PrintSize",
+      "MarginX": "40",
+      "MarginY": "80",
+      "Text": "A3",
+      "IsLast": false
+    },
+    {
+      "IsStartPosition": false,
+      "Width": "120",
+      "Height": "70",
+      "X": null,
+      "Y": null,
+      "BtnType": "PrintSize",
+      "MarginX": "40",
+      "MarginY": "80",
+      "Text": "A4",
+      "IsLast": false
+    },
+    {
+      "IsStartPosition": false,
+      "Width": "120",
+      "Height": "70",
+      "X": null,
+      "Y": null,
+      "BtnType": "PrintSize",
+      "MarginX": "40",
+      "MarginY": "80",
+      "Text": "A5",
+      "IsLast": false
+    },
+    {
+      "IsStartPosition": false,
+      "Width": "120",
+      "Height": "70",
+      "X": null,
+      "Y": null,
+      "BtnType": "PrintSize",
+      "MarginX": "40",
+      "MarginY": "80",
+      "Text": "A6",
+      "IsLast": true
+    },
+    {
+      "IsStartPosition": false,
+      "Width": "120",
+      "Height": "70",
+      "X": null,
+      "Y": null,
+      "BtnType": "PaperSize",
+      "MarginX": "40",
+      "MarginY": "80",
+      "Text": "A3",
+      "IsLast": false
+    },
+    {
+      "IsStartPosition": true,
+      "Width": "120",
+      "Height": "70",
+      "X": null,
+      "Y": null,
+      "BtnType": "PaperSize",
+      "MarginX": "40",
+      "MarginY": "80",
+      "Text": "A4",
+      "IsLast": false
+    },
+    {
+      "IsStartPosition": false,
+      "Width": "120",
+      "Height": "70",
+      "X": null,
+      "Y": null,
+      "BtnType": "PaperSizeSet",
+      "MarginX": "40",
+      "MarginY": "80",
+      "Text": "自定义纸张",
+      "IsLast": false
+    },
+    {
+      "IsStartPosition": false,
+      "Width": "120",
+      "Height": "70",
+      "X": null,
+      "Y": null,
+      "BtnType": "PrintSizeSet",
+      "MarginX": "40",
+      "MarginY": "80",
+      "Text": "自定义尺寸",
+      "IsLast": false
+    }
+  ]
+}
